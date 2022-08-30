@@ -1,5 +1,7 @@
 <template>
-  
+  <view>
+    
+  </view>
 </template>
 
 <script>
@@ -7,17 +9,14 @@
     data() {
       return {
         
-      };
-    },
-    onLoad() {
-      
+      }
     },
     methods: {
       
-    },
+    }
   }
 </script>
 
-<style lang="scss">
-  
+<style>
+
 </style>

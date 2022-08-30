@@ -1,5 +1,5 @@
 <template>
-  
+  <view></view>
 </template>
 
 <script>
@@ -12,9 +12,9 @@
     onLoad() {
       
     },
-    methods: {
+    methods:{
       
-    },
+    }
   }
 </script>
 
